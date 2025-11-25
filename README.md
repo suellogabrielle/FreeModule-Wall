@@ -1,7 +1,7 @@
 
   # Freemodule Wall Interface Design
 
-  This is a code bundle for Freemodule Wall Interface Design. The original project is available at https://www.figma.com/design/8umNvLKiZOhocBpTnzIk9E/Freemodule-Wall-Interface-Design.
+  This is a code bundle for Freemodule Wall Interface Design. 
 
   ## Running the code
 
